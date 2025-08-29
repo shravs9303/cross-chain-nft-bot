@@ -18,7 +18,7 @@ This project showcases **automation in DeFi/NFT ecosystems**, cross-chain capabi
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 | Feature | Description |
 |---------|-------------|
@@ -30,7 +30,7 @@ This project showcases **automation in DeFi/NFT ecosystems**, cross-chain capabi
 
 ---
 
-## 🏗 Architecture
+## 🏗Architecture
 
 ```text
 +-------------------+       +----------------+       +----------------+
@@ -52,7 +52,7 @@ This project showcases **automation in DeFi/NFT ecosystems**, cross-chain capabi
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer           | Technology                               |
 | --------------- | ---------------------------------------- |
@@ -65,7 +65,7 @@ This project showcases **automation in DeFi/NFT ecosystems**, cross-chain capabi
 
 
 
-## 🔧 Usage
+##  Usage
 
 1. Open the frontend in browser: `http://localhost:3000`
 2. Connect your wallet (Metamask or any EVM wallet)
@@ -80,7 +80,7 @@ This project showcases **automation in DeFi/NFT ecosystems**, cross-chain capabi
 
 ---
 
-## 🧩 How Gelato is Used
+##  How Gelato is Used
 
 1. **Smart Wallet SDK** – Creates a wallet for the user that can execute tasks automatically.
 2. **Automate SDK** – Allows scheduling tasks like buying an NFT at a given price or block.
@@ -88,7 +88,7 @@ This project showcases **automation in DeFi/NFT ecosystems**, cross-chain capabi
 
 ---
 
-## 📈 Potential Extensions
+##  Potential Extensions
 
 * **Multi-NFT batch scheduling** – Buy multiple NFTs in one task
 * **Cross-chain swaps** – Buy NFT on one chain, sell on another
@@ -96,15 +96,6 @@ This project showcases **automation in DeFi/NFT ecosystems**, cross-chain capabi
 * **Notification system** – Telegram, Discord, or email alerts
 * **Front-end analytics** – Track scheduled tasks and execution status across chains
 
----
 
-## 🧪 Testing
 
-* Unit test `NFTBuyer.sol` using Hardhat + Chai:
-
-```bash
-npx hardhat test
-```
-
-* Test backend task creation by calling the `/api/schedule` endpoint.
 
