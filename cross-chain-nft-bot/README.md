@@ -30,7 +30,7 @@ This project showcases **automation in DeFi/NFT ecosystems**, cross-chain capabi
 
 ---
 
-## 🏗Architecture
+## Architecture
 
 ```text
 +-------------------+       +----------------+       +----------------+
@@ -95,6 +95,7 @@ This project showcases **automation in DeFi/NFT ecosystems**, cross-chain capabi
 * **Price triggers** – Only execute purchase if NFT is below a target price
 * **Notification system** – Telegram, Discord, or email alerts
 * **Front-end analytics** – Track scheduled tasks and execution status across chains
+
 
 
 
